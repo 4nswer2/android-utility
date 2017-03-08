@@ -5,7 +5,7 @@ apply plugin: 'maven'
 uploadArchives {
     repositories {
         mavenDeployer {
-            repository url: "file://${projectDir}/../../repository"
+            repository url: "file://${projectDir}/../../docs/repository"
             pom.groupId = 'jp.gr.java_conf.atle42'
             pom.artifactId = 'android-utility'
             pom.version = '0.0.1'

@@ -8,7 +8,7 @@ import android.support.annotation.Nullable;
 import android.util.Log;
 
 /**
- * Created by murata_to on 2017/01/10.
+ * Created by atle-tomoya on 2017/01/10.
  */
 
 public abstract class BindableService extends Service {

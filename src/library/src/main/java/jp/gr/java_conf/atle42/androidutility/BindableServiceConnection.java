@@ -5,7 +5,7 @@ import android.content.ServiceConnection;
 import android.os.IBinder;
 
 /**
- * Created by murata_to on 2016/12/15.
+ * Created by atle-tomoya on 2016/12/15.
  */
 
 public abstract class BindableServiceConnection implements ServiceConnection {
