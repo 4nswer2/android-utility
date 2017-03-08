@@ -6,7 +6,7 @@ import android.content.SharedPreferences;
 import java.util.Set;
 
 /**
- * Created by murata_to on 2017/03/02.
+ * Created by atle-tomoya on 2017/03/02.
  */
 
 public class SharedPreferencesUtil {

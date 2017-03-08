@@ -14,7 +14,7 @@ import android.support.v4.app.FragmentManager;
 import android.support.v7.app.AlertDialog;
 
 /**
- * Created by murata_to on 2017/01/17.
+ * Created by atle-tomoya on 2017/01/17.
  */
 
 public class RuntimePermissionUtil {

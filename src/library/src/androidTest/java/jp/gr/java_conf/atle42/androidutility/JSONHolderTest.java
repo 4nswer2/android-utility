@@ -9,7 +9,7 @@ import org.junit.runner.RunWith;
 import static org.junit.Assert.assertEquals;
 
 /**
- * Created by murata_to on 2017/03/08.
+ * Created by atle-tomoya on 2017/03/08.
  */
 
 @RunWith(AndroidJUnit4.class)

@@ -19,7 +19,7 @@ import okhttp3.RequestBody;
 import okhttp3.Response;
 
 /**
- * Created by murata_to on 2016/12/08.
+ * Created by atle-tomoya on 2016/12/08.
  */
 
 public class HttpUtil {

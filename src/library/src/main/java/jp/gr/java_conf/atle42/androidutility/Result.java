@@ -1,7 +1,7 @@
 package jp.gr.java_conf.atle42.androidutility;
 
 /**
- * Created by murata_to on 2017/03/01.
+ * Created by atle-tomoya on 2017/03/01.
  */
 
 public class Result<T> {
